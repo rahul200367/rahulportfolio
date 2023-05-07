@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rahulportfolio/static/css/main.990060df.css",
-    "main.js": "/rahulportfolio/static/js/main.60bb1798.js",
+    "main.css": "/rahulportfolio/static/css/main.95daca21.css",
+    "main.js": "/rahulportfolio/static/js/main.01610004.js",
     "static/js/787.dbbd0357.chunk.js": "/rahulportfolio/static/js/787.dbbd0357.chunk.js",
     "static/media/Newsindia.png": "/rahulportfolio/static/media/Newsindia.3fb526088bcdf61a52bc.png",
     "static/media/amazon.png": "/rahulportfolio/static/media/amazon.665e24b272e110e09ef9.png",
     "index.html": "/rahulportfolio/index.html",
-    "main.990060df.css.map": "/rahulportfolio/static/css/main.990060df.css.map",
-    "main.60bb1798.js.map": "/rahulportfolio/static/js/main.60bb1798.js.map",
+    "main.95daca21.css.map": "/rahulportfolio/static/css/main.95daca21.css.map",
+    "main.01610004.js.map": "/rahulportfolio/static/js/main.01610004.js.map",
     "787.dbbd0357.chunk.js.map": "/rahulportfolio/static/js/787.dbbd0357.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.990060df.css",
-    "static/js/main.60bb1798.js"
+    "static/css/main.95daca21.css",
+    "static/js/main.01610004.js"
   ]
 }
