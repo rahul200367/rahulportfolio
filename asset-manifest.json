@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/rahulportfolio/static/css/main.5b191afc.css",
-    "main.js": "/rahulportfolio/static/js/main.819379d5.js",
+    "main.js": "/rahulportfolio/static/js/main.2c18ae28.js",
     "static/js/787.dbbd0357.chunk.js": "/rahulportfolio/static/js/787.dbbd0357.chunk.js",
     "static/media/zomato-clone.png": "/rahulportfolio/static/media/zomato-clone.6746d55e294b35a1c2a6.png",
     "static/media/Newsindia.png": "/rahulportfolio/static/media/Newsindia.3fb526088bcdf61a52bc.png",
-    "static/media/resume.pdf": "/rahulportfolio/static/media/resume.a2cac2c9796fe1bb2771.pdf",
+    "static/media/resume.pdf": "/rahulportfolio/static/media/resume.bc324e369b9d9a4fc752.pdf",
     "static/media/amazon.png": "/rahulportfolio/static/media/amazon.665e24b272e110e09ef9.png",
     "static/media/chatgptclone.png": "/rahulportfolio/static/media/chatgptclone.98941dc9f9bd0456486a.png",
     "static/media/weather.png": "/rahulportfolio/static/media/weather.2fc44d5990b4c70cfa7c.png",
     "index.html": "/rahulportfolio/index.html",
     "main.5b191afc.css.map": "/rahulportfolio/static/css/main.5b191afc.css.map",
-    "main.819379d5.js.map": "/rahulportfolio/static/js/main.819379d5.js.map",
+    "main.2c18ae28.js.map": "/rahulportfolio/static/js/main.2c18ae28.js.map",
     "787.dbbd0357.chunk.js.map": "/rahulportfolio/static/js/787.dbbd0357.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b191afc.css",
-    "static/js/main.819379d5.js"
+    "static/js/main.2c18ae28.js"
   ]
 }
